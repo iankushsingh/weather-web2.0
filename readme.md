@@ -44,7 +44,7 @@ To get a copy of this project up and running on your local machine, follow these
 2. Open the project folder:
 
     ```bash
-    cd weather-app
+    cd weather-web2.0
     ```
 
 ## How to Use
