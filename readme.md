@@ -14,7 +14,7 @@ A simple weather application that allows users to check the current weather cond
 
 ## Demo
 
-https://sharada-marasinha.github.io/Weather_App/
+https://iankushsingh.github.io/weather-web2.0/
 
 ![Weather App Screenshot](screenshots/screenshot.png)
 
@@ -38,7 +38,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
     ```bash
-    https://github.com/sharada-marasinha/Weather_App.git
+    https://github.com/iankushsingh/Weather-web2.0.git
     ```
 
 2. Open the project folder:
@@ -61,6 +61,6 @@ Once you have the API key, create a file named `config.js` in the root directory
 
 ```javascript
 // config.js
-const apiKey = '4a758dd1aed04dc3950175920231609';
+const apiKey = 'cefcd70f32405f5998871bb3dff62dba';
 
 export default apiKey;
