@@ -16,7 +16,7 @@ A simple weather application that allows users to check the current weather cond
 
 https://iankushsingh.github.io/weather-web2.0/
 
-![Weather App Screenshot](screenshots/screenshot.png)
+![Weather App Screenshot](img/screenshot.png)
 
 ## Features
 
